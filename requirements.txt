@@ -1,0 +1,5 @@
+1- array to hold all possible characters
+2- button to generate 4 random password options
+3- Display password option
+4- ability to set the password length
+5- 1-click copy password to clipboard
